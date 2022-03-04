@@ -1,0 +1,14 @@
+
+h1,p{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+   
+
+}
+li{
+    border: 0.5rem solid cyan;
+    text-align: center;
+   
+}
